@@ -8,3 +8,5 @@ This dataset provides a comprehensive look at Airbnb prices in some of the most 
 Our dataset includes information such as realSum (the total price of the listing), room_type (private/shared/entire home/apt), host_is_superhost (boolean value indicating if host is a superhost or not), multi (indicator whether listing is for multiple rooms or not), biz (business indicator) , guest_satisfaction_overall (overall rating from guests camparing all listings offered by host ), bedrooms, dist (distance from city center) , lng & lat coordinates for location identification etc. 
 
 This data set offers insight into how global markets are affected by social dynamics and geographical factors which in turn determine pricing strategies for optimal profitability.
+
+Useful link: https://rpubs.com/barkhasharma/1016986
