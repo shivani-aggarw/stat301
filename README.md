@@ -10,4 +10,4 @@ This data set offers insight into how global markets are affected by social dyna
 
 ## Relevant Links
 [Final Project](.\Airbnb_Prices_Prediction.html)
-[Code Source](./airbnb_predictive.ipynb)
+\n[Code Source](./airbnb_predictive.ipynb)
