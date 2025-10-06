@@ -9,5 +9,5 @@ Our dataset includes information such as `realSum` (the total price of the listi
 This data set offers insight into how global markets are affected by social dynamics and geographical factors which in turn determine pricing strategies for optimal profitability.
 
 ## Relevant Links
-[Final Project](.\Airbnb_Prices_Prediction.html)
-\n[Code Source](./airbnb_predictive.ipynb)
+[Final Project](.\Airbnb_Prices_Prediction.html)\
+[Code Source](./airbnb_predictive.ipynb)
